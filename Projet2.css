@@ -1,0 +1,68 @@
+#Head1{
+    
+    background-image: url(images/application.jpg);
+    border-style: outset;
+    border-radius: 10px;
+    height: 100px;
+ }
+  .navSup a{
+      border-radius: 12px;
+      background-color:burlywood;
+      margin-left: 4em;
+      height: auto;
+      width: auto;
+      right: 50%;
+      font-size: 25px;
+      text-align: center;
+      display: inline-block;
+      text-decoration: none;
+
+    
+      
+
+  }
+#buis{
+    position: relative;
+    top: -2em;
+}
+
+.section1{
+width: 60%;
+align-content: center;
+margin-top:5%;
+margin-left: 10%;
+ border:2px solid black;
+border-style: solid;
+border-radius: 10px;
+border-style: outset;
+display: grid;
+flex-wrap: wrap;
+padding-left: 20%;
+clear: both;
+
+}
+.section12{
+    padding-top: 5%;
+width: 50%;}
+.section12 a{
+    font-size: 25px;
+text-align: center;
+text-decoration-color: rgba(224, 10, 64, 0.66);}
+#bb{width: 100%;}
+
+.section121{
+    width: 60%;
+    align-content: center;
+    margin-top:5%;
+    margin-left: 10%;
+     border:2px solid black;
+    border-style: solid;
+    border-radius: 10px;
+    border-style: outset;
+    display: grid;
+    flex-wrap: wrap;
+    padding-left: 20%;
+  
+    padding-bottom: 5%;
+    
+    }
